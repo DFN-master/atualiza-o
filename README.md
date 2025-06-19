@@ -1,5 +1,12 @@
 📝 Log de Versões
 
+### Versão 6.0.2 - 19/06/2025
+✅ Melhoria na interface de tickets fechados (barra de mensagem desabilitada com aviso para reabrir)
+✅ Correção na exibição de quebras de linha nos informativos
+✅ Otimização na prévia de anúncios no sino de notificações
+✅ Melhorias na formatação de texto dos anúncios (suporte a Alt + Enter)
+✅ Aprimoramento visual na indicação de tickets fechados
+
 ### Versão 6.0.1 - 19/06/2025
 ✅ Correção no sistema de stickers (processamento e envio otimizados)
 ✅ Correção na validação de contatos duplicados
