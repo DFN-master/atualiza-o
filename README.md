@@ -1,5 +1,19 @@
-v 6.0.4
+v 6.0.3
 📝 Log de Versões
+
+
+### Versão 6.0.3 - 04/07/2025
+✅ **Correção de Stickers do WhatsApp Web**: Stickers enviados via WhatsApp Web agora aparecem corretamente, sem exibir como imagem quebrada
+✅ **Correção de Stickers Animados**: Stickers animados agora preservam a animação ao copiar stickers existentes (WebP animado detectado e preservado)
+✅ **Correção de PDFs Duplicados**: Sistema inteligente de sobrescrita implementado - quando cliente envia PDF com mesmo nome, arquivo é sobrescrito automaticamente
+✅ **Correção da Mensagem Fora de Expediente**: Removido texto "contact" incorreto da mensagem de fora de expediente
+✅ **Correção da Exibição da Versão**: Problema do texto "false" ao lado do badge "latest" foi corrigido
+✅ **Sistema de Detecção de WebP Animado**: Implementada biblioteca webpinfo para detectar e preservar animações em WebP
+✅ **Lógica Inteligente de Upload**: Sistema agora verifica arquivos existentes e sobrescreve quando necessário, evitando duplicação
+✅ **Melhorias no Processamento de Mídia**: Otimização no processamento de stickers e arquivos
+✅ **Atualização de Dependências**: Adicionada biblioteca webpinfo para suporte completo a WebP animado
+✅ **Sistema de Versões Aprimorado**: Controle de versão centralizado com variáveis de ambiente
+
 
 ### Versão 6.0.2 - 19/06/2025
 ✅ Melhoria na interface de tickets fechados (barra de mensagem desabilitada com aviso para reabrir)
